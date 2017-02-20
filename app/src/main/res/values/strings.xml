@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">VibrateTest</string>
+
+    <string name="vibrate_test_title">Vibrate Test</string>
+    <string name="vibrate_test_time">"Test Time: "</string>
+    <string name="current_test_time">"Current Test Time: "</string>
+    <string name="tested_time">"Tested Time: "</string>
+    <string name="vibrate_cancel_test">Cancel Test</string>
+    <string name="minute">minute</string>
+    <string name="last_test_time">"Last Test Time: "</string>
+    <string name="last_real_test_time">"Last Real Test Time: "</string>
+    <string name="last_test_result">"Last Test Result: "</string>
+    <string name="start_test">Start Test</string>
+    <string name="test_success">Test Success</string>
+    <string name="test_fail">Test Fail</string>
+    <string name="test_time_limit_tip">The test time should be between 1 and 30,000</string>
+    <string name="day_string"><xliff:g id="time">%2d</xliff:g>"day"</string>
+    <string name="hour_string"><xliff:g id="time">%2d</xliff:g>"hour"</string>
+    <string name="minute_string"><xliff:g id="time">%2d</xliff:g>"minute"</string>
+    <string name="second_string"><xliff:g id="time">%2d</xliff:g>"second"</string>
+    <string name="denied_required_permission">Permissions denied. You can change them in Settings &gt; Apps &gt; VibrateTest.</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="vibrate_repeat_times">0</integer>
+    <integer-array name="vibrate_time">
+        <item>0</item>
+        <item>2000</item>
+        <item>1000</item>
+        <item>2000</item>
+        <item>1000</item>
+    </integer-array>
+
+</resources>

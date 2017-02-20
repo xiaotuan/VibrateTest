@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"馬達震動測試"</string>
+
+    <string name="vibrate_test_title">"馬達震動測試"</string>
+    <string name="vibrate_test_time">"測試時間: "</string>
+    <string name="current_test_time">"當前測試時間: "</string>
+    <string name="tested_time">"已測試時間: "</string>
+    <string name="vibrate_cancel_test">"取消测试"</string>
+    <string name="minute">"分"</string>
+    <string name="last_test_time">"上次測試時間: "</string>
+    <string name="last_real_test_time">"上次真實測試時間: "</string>
+    <string name="last_test_result">"上次測試結果: "</string>
+    <string name="start_test">"開始測試"</string>
+    <string name="test_success">"測試成功"</string>
+    <string name="test_fail">"測試失敗"</string>
+    <string name="test_time_limit_tip">"測試時間應在1到30000之間"</string>
+    <string name="day_string"><xliff:g id="time">%2d</xliff:g>"天"</string>
+    <string name="hour_string"><xliff:g id="time">%2d</xliff:g>"小時"</string>
+    <string name="minute_string"><xliff:g id="time">%2d</xliff:g>"分"</string>
+    <string name="second_string"><xliff:g id="time">%2d</xliff:g>"秒"</string>
+    <string name="denied_required_permission">"許可權被拒絕。您可以依次選擇 \"設定\"&gt;\"應用\"&gt;\"馬達震動測試\" 來更改許可權。"</string>
+
+</resources>
